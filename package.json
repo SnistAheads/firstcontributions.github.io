@@ -1,8 +1,8 @@
 {
-  "name": "first-contributions",
+  "name": "you can contribute",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://firstcontributions.github.io/",
+  "homepage": "https://snistaheads.github.io/projects/",
   "devDependencies": {
     "enzyme": "^3.0.0",
     "gh-pages": "^0.12.0",
